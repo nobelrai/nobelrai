@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Nobel Sampang Rai
 ## 💻 DevOps | Python Developer | Cloud Enthusiast
 
-- 🔭 I’m currently working on: Jenkins + Git CI/CD pipeline  
+- 🔭 I’m currently working on: Oracle APEX, Jenkins + Git CI/CD pipeline  
 - 🌱 I’m learning: AWS | Docker | Kubernetes  
 - 💬 Ask me about: Git, Python, Jenkins, CI/CD  
-- 📫 How to reach me: nobel@example.com  
+- 📫 How to reach me: mailtonobelrai@gmail.com 
 - ⚡ Fun fact: I love automating everything!
 
 ---
