@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Nobel Sampang Rai
+## 💻 DevOps | Python Developer | Cloud Enthusiast
 
-<!--
-**nobelrai/nobelrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: Jenkins + Git CI/CD pipeline  
+- 🌱 I’m learning: AWS | Docker | Kubernetes  
+- 💬 Ask me about: Git, Python, Jenkins, CI/CD  
+- 📫 How to reach me: nobel@example.com  
+- ⚡ Fun fact: I love automating everything!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Nobel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nobelrai&show_icons=true&theme=tokyonight)
+
+---
+
+### 🧠 Top Projects
+- [CI/CD Pipeline with Jenkins](https://github.com/nobelrai/jenkins-ci-cd-pipeline)
+- [Python Automation Scripts](https://github.com/nobelrai/python-automation-tools)
