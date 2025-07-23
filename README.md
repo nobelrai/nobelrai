@@ -24,5 +24,5 @@
 ---
 
 ### 🧠 Top Projects
-- [CI/CD Pipeline with Jenkins](https://github.com/nobelrai/jenkins-ci-cd-pipeline)
+- [Alu-Python & Django]([https://github.com/nobelrai/jenkins-ci-cd-pipeline](https://github.com/nobelrai/Alu))
 - [Python Automation Scripts](https://github.com/nobelrai/python-automation-tools)
